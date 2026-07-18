@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/pandaSuvashis/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/pandaSuvashis/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/pandaSuvashis/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pandaSuvashis/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -45,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pandaSuvashis/Leetcode/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/pandaSuvashis/Leetcode/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/pandaSuvashis/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pandaSuvashis/Leetcode/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/pandaSuvashis/Leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->

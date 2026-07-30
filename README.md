@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/pandaSuvashis/Leetcode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/pandaSuvashis/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pandaSuvashis/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pandaSuvashis/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/pandaSuvashis/Leetcode/tree/master/0053-maximum-subarray) |
+| [0190-reverse-bits](https://github.com/pandaSuvashis/Leetcode/tree/master/0190-reverse-bits) |
 ## Dynamic Programming
 |  |
 | ------- |

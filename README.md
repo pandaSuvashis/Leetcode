@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/pandaSuvashis/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pandaSuvashis/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/pandaSuvashis/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/pandaSuvashis/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pandaSuvashis/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/pandaSuvashis/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/pandaSuvashis/Leetcode/tree/master/0704-binary-search) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pandaSuvashis/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/pandaSuvashis/Leetcode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/pandaSuvashis/Leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/pandaSuvashis/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/pandaSuvashis/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/pandaSuvashis/Leetcode/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/pandaSuvashis/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/pandaSuvashis/Leetcode/tree/master/0268-missing-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pandaSuvashis/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/pandaSuvashis/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
